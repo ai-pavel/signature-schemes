@@ -1,7 +1,7 @@
 # signature-schemes
 
-[![CI](https://github.com/pavel-genai/signature-schemes/actions/workflows/ci.yml/badge.svg)](https://github.com/pavel-genai/signature-schemes/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/pavel-genai/signature-schemes/branch/main/graph/badge.svg)](https://codecov.io/gh/pavel-genai/signature-schemes)
+[![CI](https://github.com/ai-pavel/signature-schemes/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/signature-schemes/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ai-pavel/signature-schemes/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/signature-schemes)
 
 Pure-Python implementations of four digital signature schemes:
 
