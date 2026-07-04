@@ -1,5 +1,7 @@
 # signature-schemes
 
+[![CI](https://github.com/pavel-genai/signature-schemes/actions/workflows/ci.yml/badge.svg)](https://github.com/pavel-genai/signature-schemes/actions/workflows/ci.yml)
+
 Pure-Python implementations of four digital signature schemes:
 
 | Scheme | Curve / Primitive | Module |
