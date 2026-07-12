@@ -1,7 +1,7 @@
-# signature-schemes
+# penmanship
 
-[![CI](https://github.com/ai-pavel/signature-schemes/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/signature-schemes/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/ai-pavel/signature-schemes/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/signature-schemes)
+[![CI](https://github.com/ai-pavel/penmanship/actions/workflows/ci.yml/badge.svg)](https://github.com/ai-pavel/penmanship/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ai-pavel/penmanship/branch/main/graph/badge.svg)](https://codecov.io/gh/ai-pavel/penmanship)
 
 Pure-Python implementations of four digital signature schemes:
 
